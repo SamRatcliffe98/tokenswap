@@ -2,8 +2,8 @@
 
 pragma solidity >=0.4.22 <0.7.0;
 
-import "./ Token1 . sol ";
-import "./ Token2 . sol ";
+import "./Token1.sol";
+import "./Token2.sol";
 
 contract TokenSwap {
 
